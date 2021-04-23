@@ -1,0 +1,5 @@
+pip install SpeechRecognition
+pip install pyttsx3
+conda install -c anaconda pyaudio
+pip install pywhatkit
+pip install wikipedia
